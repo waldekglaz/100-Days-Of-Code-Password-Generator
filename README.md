@@ -1,6 +1,6 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 
-This is a solution to the day 3 [Day 3 Challenge: Rock, Paper, Scissors](https://www.udemy.com/course/100-days-of-code/).
+This is a solution to the day 5 [Challenge: Password Generator](https://www.udemy.com/course/100-days-of-code/).
 
 ## Table of contents
 
@@ -14,24 +14,15 @@ This is a solution to the day 3 [Day 3 Challenge: Rock, Paper, Scissors](https:/
 
 ### The challenge
 
-#### Rock, Paper and Scissors
+#### Password Generator
 
--Make a rock, paper, scissors game.
+-Ask user
 
--Inside the main.py file, you'll find the ASCII art for the hand signals already saved to a corresponding variable: rock, paper, and scissors. This will make it easy to print them out to the console.
+- How many letters do they want in their password
+- How many symbols do they want in their password
+- How many numbers do they want in their password
 
--Start the game by asking the player:
-
--"What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors."
-
--From there you will need to figure out:
-
-    - How you will store the user's input.
-    - How you will generate a random choice for the computer.
-    - How you will compare the user's and the computer's choice to determine the winner (or a draw).
-    - And also how you will give feedback to the player.
-
-You can find the "official" rules of the game on the World Rock Paper Scissors Association website.
+Password should be fully randomised
 
 ## My process
 
